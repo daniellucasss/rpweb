@@ -1,0 +1,6 @@
+com\daniapp\controller\HomeController.class
+com\daniapp\application\MvcConfiguration.class
+com\daniapp\model\Usuario.class
+com\daniapp\application\ServletInitializer.class
+com\daniapp\application\WebSecurityConfiguration.class
+com\daniapp\application\RpWebApplication.class
