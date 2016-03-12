@@ -1,1 +1,1 @@
-web:    java $JAVA_OPTS -jar target/dependency/rpWeb.jar --port $PORT target/*.war
+web:    java $JAVA_OPTS -jar target/rpWeb-0.0.1-SNAPSHOT.war --port $PORT target/*.war
