@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan({"com.daniapp.controller", "com.daniapp.application", "com.daniapp.model"})
+@ComponentScan({"com.daniapp"})
 public class RpWebApplication {
 
 	public static void main(String[] args) {
