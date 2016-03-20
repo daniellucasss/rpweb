@@ -1,7 +1,13 @@
-com\daniapp\controller\HomeController.class
+com\daniapp\service\UsuarioServiceImpl.class
 com\daniapp\model\Perfil.class
+com\daniapp\repository\UsuarioRepository.class
 com\daniapp\application\MvcConfiguration.class
+com\daniapp\repository\UsuarioRepositoryImpl.class
+com\daniapp\service\GenericService.class
 com\daniapp\model\Usuario.class
 com\daniapp\application\ServletInitializer.class
 com\daniapp\application\WebSecurityConfiguration.class
 com\daniapp\application\RpWebApplication.class
+com\daniapp\repository\GenericRepository.class
+com\daniapp\controller\HomeController.class
+com\daniapp\service\UsuarioService.class
